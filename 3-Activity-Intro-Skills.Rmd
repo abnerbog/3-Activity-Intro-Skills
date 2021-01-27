@@ -64,14 +64,11 @@ Be sure your code outputs the tibble.
 
 ```{r}
 
-new <- flashy %>% group_by(STATE) %>% 
-  summarize(mRBI = mean(RBI), max(RBI), min(RBI)) %>%
-  arrange(mRBI) 
 ```
 
 ## Problem 6
 
-Take the tibble from problem 5. Create a new column that is the Range of the PET (max PET - min PET). Then get rid of the max RBI and min RBI columns so the tibble just had columns for State, mean PET, and PET range.
+Take the tibble from problem 5. Create a new column that is the Range of the PET (max PET - min PET). Then get rid of the max RBI and min RBI columns so the tibble just has columns for State, mean PET, and PET range.
 
 Be sure your code outputs the tibble.
 
