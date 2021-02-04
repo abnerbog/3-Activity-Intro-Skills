@@ -13,7 +13,7 @@ Load the tidyverse and lubridate libraries.
 
 Read in the PINE_NFDR_Jan-Mar_2010 csv using read_csv()
 
-Make a plot with the date on the y axis, discharge on the x axis. Show the discharge of the two watersheds as a line, coloring by watershed (StationID)
+Make a plot with the date on the x axis, discharge on the y axis. Show the discharge of the two watersheds as a line, coloring by watershed (StationID)
 
 ```{r}
 
