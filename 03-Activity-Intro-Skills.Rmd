@@ -1,12 +1,4 @@
----
-title: "3-Activity-Intro-Skills"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
+# Intro Skills Activity {#introactivity}
 ## Problem 1
 
 Load the tidyverse and lubridate libraries.
