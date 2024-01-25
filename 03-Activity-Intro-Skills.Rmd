@@ -1,3 +1,10 @@
+---
+title: "Intro Skills Activity"
+format:
+  html: 
+    self-contained: true
+---
+
 # Intro Skills Activity {#introactivity}
 ## Problem 1
 
