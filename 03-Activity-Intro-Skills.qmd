@@ -1,8 +1,22 @@
 ---
-title: "Intro Skills Activity"
+title: "Chapter 3: Intro Skills Activity"
+date: today
+github: https://github.com/VT-Hydroinformatics/3-Activity-Intro-Skills
+author:
+  - name: JP Gannon
+    orcid: 0000-0002-4595-3214
+    github: jpgannon
+    url: https://jpgannon.github.io/
+    affiliation: 
+      - name: Virginia Tech
+        url: https://www.vt.edu/
 format:
   html: 
     self-contained: true
+  ipynb:
+      nb-frontmatter: true
+execute: 
+  enabled: true
 ---
 
 # Intro Skills Activity {#introactivity}
