@@ -20,7 +20,7 @@ execute:
   enabled: true
 ---
 
-# Intro Skills Activity {#introactivity}
+# Intro Skills Activity
 ## Problem 1
 
 Load the tidyverse and lubridate libraries.
