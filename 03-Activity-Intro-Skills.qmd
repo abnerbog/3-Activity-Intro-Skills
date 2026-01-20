@@ -1,11 +1,26 @@
 ---
-title: "Intro Skills Activity"
+title: "Chapter 3: Intro Skills Activity"
+date: today
+author:
+  - name: JP Gannon
+    orcid: 0000-0002-4595-3214
+    url: https://jpgannon.github.io/
+    affiliation: 
+      - name: Virginia Tech
+        url: https://www.vt.edu/
 format:
   html: 
     self-contained: true
+  ipynb:
+    nb-frontmatter: true
+    jupyter:
+      kernel: ir
+      ipynb-shell-interactivity: all
+execute: 
+  enabled: true
 ---
 
-# Intro Skills Activity {#introactivity}
+# Intro Skills Activity
 ## Problem 1
 
 Load the tidyverse and lubridate libraries.
