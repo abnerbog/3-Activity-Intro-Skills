@@ -1,6 +1,11 @@
-# Chapter 3: Intro Skills Activity
-JP Gannon
-2026-02-12
+---
+title: 'Chapter 3: Intro Skills Activity'
+date: 2026-03-23T00:00:00.000Z
+authors:
+  - id: jpgannon
+github: https://github.com/VT-Hydroinformatics/3-Activity-Intro-Skills
+---
+
 
 # Intro Skills Activity
 
